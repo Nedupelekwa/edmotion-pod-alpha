@@ -127,9 +127,9 @@ Project Repository: https://github.com/JoodTheAnalyst/superstore-sales-analysis.
 
 # 👤 Name: CHINEDU ELEKWA
 
-GitHub Profile:
-Portfolio Site:
-Project Repository: 
+GitHub Profile: https://github.com/Nedupelekwa
+Portfolio Site: https://nedupelekwa.github.io
+Project Repository: https://github.com/Nedupelekwa/POWERBI-BUSINESS-DASHBOARD
 
 ## ✅ Milestone 1 — Setup & Collaboration
 
